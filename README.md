@@ -1,5 +1,5 @@
 # Motor-Imagery-based-BCI
-A subject-dependent brain-computer interface based on motor imagery mental strategy
+A subject-dependent brain-computer interface based on motor imagery mental strategy.
 
 
 ## Data preparation and Preprocessing
